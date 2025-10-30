@@ -1,0 +1,5 @@
+# Ignore generated output files
+*.out
+cgpa
+cgpa.in
+cgpa.out
