@@ -66,7 +66,7 @@ and works on both Windows and Linux/macOS.
   ./sudoku sudokuX.in
   ```
 
-- Each command reads a different input file  
+- Each ./sudoku sudokuX.in command reads a different input file  
   and writes the solved puzzle to `sudoku.out`.
 
 ---
