@@ -1,0 +1,38 @@
+# Compiled source files
+*.o
+*.obj
+
+# Compiled dynamic libraries
+*.so
+*.dll
+*.dylib
+
+# Compiled static libraries
+*.lib
+*.a
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Backup / temporary files
+*~
+*.swp
+*.bak
+*.tmp
+
+# macOS system files
+.DS_Store
+
+# Build directories
+/build/
+/bin/
+/dist/
+
+# VSCode / CLion / IDE configs
+.vscode/
+.idea/
+
+# Logs and runtime files
+*.log
